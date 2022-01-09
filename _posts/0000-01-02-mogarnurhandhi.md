@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-halo saya mogar nurhandhi
+halo ini adalah perubahan
 ini adalah file belajar github 
